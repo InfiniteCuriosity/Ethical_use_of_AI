@@ -113,3 +113,8 @@ You get the idea!
 3. One you have the findings from AI and re-write your resume, send your resume and (a link to your) <b>portfolio</b> to AI, approximately like this:<br>
 <br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is to evaluate my resume and portfolio for this job: https://www.indeed.com/viewjob?jk=452a1c70e651f44c. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
+<br>
+
+Let me know if there are any questions. Thank you!
+<br>
+Russ Conte
