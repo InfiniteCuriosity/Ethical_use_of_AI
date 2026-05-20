@@ -34,7 +34,7 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 <br>
 <h4>1. Tell the AI system it is a very successful team of rivals.</h4>
 I wrote a post about the findings of data science about turnover. I did all the data science, and asked AI for assistance. Here are the parts of the prompt:
-
+<br>
 You are an <b>extremely successful team of rivals</b>. The members of the team: An extremely smart data scientist, excellent writer, expert in Human Resources, An Industrial-Organizational (I-O) Psychologist to explain the behavioral "why" behind the satisfaction scores, a Financial Controller to calculate the actual "Cost of Attrition" (replacement, training, lost productivity) to turn these data points into a budget request, a front-Line manager (Operations Lead) to bridge the gap between the spreadsheet and the cubicle, and a critical voice.
 
 I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everything you ask AI for help. I greatly prefer an odd number of people (you'll see why in a second). Tailor their skills to the need at hand. There is no limit to how big or small this team can be, so use it to your best advantage.
