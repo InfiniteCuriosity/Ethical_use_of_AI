@@ -14,12 +14,13 @@ I was working to recruit for an open position in accounts receivable. I had a go
 I find this to be highly questionable, and very likely unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
 
 2. Using AI to cheat on tests and interviews.
-I totally guarantee this will backfire on you, and probably pretty fast. The company is hiring you, not ChatGPT or ClaudeCode. This is called the <b>Competncy Gap</b> by recruiters.
+I totally guarantee this will backfire on you, and probably pretty fast. The company is hiring you, not ChatGPT or ClaudeCode. This is called the <b>Compentency Gap</b> by recruiters.
+<href = https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence/>AI Is Creating A Dangerous Illusion Of Competence</a>
 
-3. Ghostwriting and/or spamming
+4. Ghostwriting and/or spamming
 There is nothing wrong with doing a search to learn more. But it's a non-negotiable that you mention when you use other people's work, including AI.
 
-4. Blatant AI plagiarism in the job search process: a YouTube video:
+5. Blatant AI plagiarism in the job search process: a YouTube video:
 <a href = "https://www.youtube.com/watch?v=A4Z2S1idVWc">The use of AI plagiarism in the job search process</a>
 
 <b>How to write a great prompt to AI:</b>
