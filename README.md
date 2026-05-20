@@ -6,7 +6,7 @@ Forest Park, IL<br>
 <h1>Part 1: Introduction</h1>
 <h4>AI will introduce errors into your text, we will look at ways to prevent this from happening.
 
-AI can be very syncophantic </h4>
+AI can be very syncophantic, we will look at ways to prevent syncophancy.</h4>
 
 According to <a href = https://en.wikipedia.org/wiki/Sycophancy>Wikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage". That is an accurate description, and it causes a lot of errors from AI systems.
 
