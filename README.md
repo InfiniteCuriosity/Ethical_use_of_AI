@@ -30,7 +30,7 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 
 <h2>1. How to write a great prompt to AI:</h2>
 <br>
-<b>Russ Recommendation: Never again ask AI about anything without setting up a team of rivals first.</b>
+<b>Russ Recommendation: Never again ask AI about anything without setting up a very successful team of rivals first.</b>
 <br>
 <h4>1. Tell the AI system it is a very successful team of rivals.</h4>
 I wrote a post about the findings of data science about turnover. I did all the data science, and asked AI for assistance. Here are the parts of the prompt:
