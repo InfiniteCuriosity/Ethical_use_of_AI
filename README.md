@@ -54,6 +54,9 @@ This is why I like having an odd number on the team of rivals, that way the reco
 <i>Explain why you gave those recommendations</i><br>
 AI will let you know why it made the decisions it made. They may not be the correct decisions, but at least you'll know.<br>
 
+<h4>5. The critical, anti-syncophantic voice</h4>
+<i>top five reasons why your recommendations might be wrong and rate the reasons your recommendations might be wrong.</i>
+
 <h4>5. List three things that would give better results</h4>
 <i>Next, return a list of three items that would give better results.</i>
 The system will return recommendations from each member of the team of rivals, it's pretty cool to see!
@@ -69,9 +72,7 @@ The system will return recommendations from each member of the team of rivals, i
 You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Ask for a top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses.
 
 
-<h4>5. The critical, anti-syncophantic voice</h4>
 
-<i>top five reasons why your recommendations might be wrong and rate those reasons your recommendations might be wrong.</i>
 
 
 
