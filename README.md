@@ -20,7 +20,7 @@ I totally guarantee this will backfire on you, and probably pretty fast. The com
 There is nothing wrong with doing a search to learn more. But it's a non-negotiable that you mention when you use other people's work, including AI.
 
 4. Blatant plagiarism in the job search process: a YouTube video
-<a href = "https://www.youtube.com/watch?v=A4Z2S1idVWc">plagiarism</a>
+<a href = "https://www.youtube.com/watch?v=A4Z2S1idVWc">Plagiarism in the job search process</a>
 
 <b>How to write a great prompt to AI:</b>
 
