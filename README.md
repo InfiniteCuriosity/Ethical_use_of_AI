@@ -28,7 +28,7 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 
 <h1>Ethical use of AI (especially in the job search process)</h1>
 
-<b>1. How to write a great prompt to AI:</b>
+<h2>1. How to write a great prompt to AI:</h2>
 <h4>1. Tell the AI system it is a very successful team of rivals.</h4>
 For example, if we are looking at submitting for a position as a labor lawyer within the United States Department of labor, you might start out by saying:
 
