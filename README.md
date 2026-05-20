@@ -83,14 +83,20 @@ For example, if you are submitting a review, you can test your review using this
 
 You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Return the top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.
 
-<h1>Ask AI to make recommendations (and weight the recommendations), not do your work for you!</h1>
+<h1>Summmary of this section: Ask AI to make recommendations (and weight the recommendations), not do your work for you!</h1>
 
+<h4>How to use AI in your job search</h4>
 
+Let's say you are interested in this job: <a href = https://www.indeed.com/viewjob?jk=452a1c70e651f44c>Data Scientist-Emerging Markets for the U.S. Commodity Futures Trading Commission in Washington DC.</a>
 
-
-
-
-
-<b>How to test if text (such as a job post or resume) has been written by AI</b>
+1. Send the job posting (or a link to the job posting) to your AI system
+2. Start thinking this way (but this is NOT the prompt for AI yet):
+"I am interested in this job. Create a resume of a candidate who is very likely to get hired for this role. Let me know if there are any questions."
+Here is part of AI's reply:<br>
+"This job posting is for a Data Scientist - Emerging Markets (Pay Scale/Grade: CT-13) position within the Division of Data (DoD) at the Commodity Futures Trading Commission (CFTC) in Washington, DC (Announcement: CFTC-DOD-2026-0003).
+Federal resumes for positions at this level are highly specialized. They must explicitly document at least one year of specialized experience equivalent to the GS/CT-12 level and directly mirror the agency's core Knowledge, Skills, and Abilities (KSAs). Furthermore, because the role sits in the Emerging Markets division, a winning candidate must demonstrate expertise in modern algorithmic trading data, digital/crypto assets, or rapidly growing prediction and event markets.
+Here is a comprehensive, targeted resume tailored to maximize the federal automated assessment score and pass hiring manager review for this specific position. (resume provided by AI)"
+<br>
+<h4>Now use the AI prompt from above to get recommendations to improve <b>YOUR</b> resume</h4>
 
 <b>How to ethically reference your use of AI</b>
