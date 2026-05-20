@@ -55,11 +55,14 @@ This is why I like having an odd number on the team of rivals, that way the reco
 AI will let you know why it made the decisions it made. They may not be the correct decisions, but at least you'll know.<br>
 
 <h4>5. List three things that would give better results</h4>
+<i>Next, return a list of three items that would give better results.</i>
 The system will return recommendations from each member of the team of rivals, it's pretty cool to see!
 
 <h4>6. How do our results here compare to the best results?</h4>
+<i>Compare our results to the best results for similar situations. Rate our results to the best results.</i>
 
 <h4>7. What are steps we can take to move closer to the best results</h4>
+<i>What are steps we can take to move closer to the best results?</i>
 
 <h2>Save this prompt and use it!!</h2>
 
