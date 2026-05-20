@@ -34,6 +34,17 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 
 There are many other unethical ways people are using AI in the job search. Don't do it!<br>
 
+<h4>In terms of mistakes, AI doesn't like humans (at least in the report I worked on!</h4>
+I asked Google Gemini Pro to web scrape the Google reviews for the Apple Store in the Woodfield Mall. I do not have any connection to the store (other than as a customer, and being there on opening day), I just thought it would be a fun project to do, and it was!
+<br>
+Woodfield was Apple's fifth retail store in the world. Google Gemini Pro did an amazing job scraping the data on the reviews, summarizing everything, giving me charts and tables. All good.<br>
+Then it responded to my request for recommendations. All the recommendations were technology driven. For example, ~20% of the reviews said the customers were waiting too long, a lot said 45 minutes or more.
+<br>
+Google Gemini Pro recommended several technical solutions, including posting information on displays, and stuff like that.
+<br>
+In my summary, I said AI did a bad job with the recommendations. It's obvious the store is short staffed, they need to hire more people, not throw more technology at the problem.
+<br>
+My report: <a href = https://infinitecuriosity.github.io/2026/05/10/AI-assisted-summarizing-Google-reviews.html>Russ Conte look at using AI to summarize reviews of the Apple Store at Woodfield.</a>
 <h1>Part 2: Ethical use of AI (especially in the job search process)</h1>
 
 Credit where credit is due: I learned some of this while completing the <a href = https://www.coursera.org/google-certificates/google-ai>Google AI Professional</a> certificate, but a lot of this was material from life.
