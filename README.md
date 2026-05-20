@@ -28,6 +28,8 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 
 <h1>Ethical use of AI (especially in the job search process)</h1>
 
+Credit where credit is due: I learned some of this while completing the <a href = https://www.coursera.org/google-certificates/google-ai>Google AI Professional</a> certificate, but a lot of this was material from life.
+
 <h2>1. How to write a great prompt to AI:</h2>
 <br>
 <b>Russ Recommendation: Never again ask AI about anything without setting up a very successful team of rivals first.</b><br>
@@ -46,9 +48,11 @@ I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everythin
 
 <i>The team's job is to produce a summary of the findings in the attached documents. Also include the top five findings from these results.</i>
 <br>
-<h4>3. Tell the AI system to return recommendations,one from each person on the team of rivals.</h4>
+<h4>3. Tell the AI system to return recommendations, one from each person on the team of rivals.</h4>
 <i>Have the team of rivals rate (and rank order) their recommendations</i><br>
 This is why I like having an odd number on the team of rivals, that way the recommendations from AI cannot be "balanced" (in my opinion).
+
+It can help to give AI an upload of the gold standard if you have it.
 
 <h4>4. Ask why. It's OK, you won't hurt AI's feelings :)</h4>
 <i>Explain why you gave those recommendations</i><br>
@@ -66,6 +70,14 @@ The system will return recommendations from each member of the team of rivals, i
 
 <h4>7. What are steps we can take to move closer to the best results</h4>
 <i>What are steps we can take to move closer to the best results?</i>
+
+<h4>8. Tell the AI system to test the results for accuracy, ethics, and integrity, and let you know the results.</h4>
+You can do this for nearly anything. 
+<i>Test your recommendations for accuracy, ethics, and integrity. Let me know what you find.</i>
+
+<h4>9. Test if your submittal meets required standards.</h4>
+For example, if you are submitting a review, you can test your review using this system, and have AI check if your review meets the requirements for submittal.
+<i>Test this for submittal to (place), rate the likelihood of being accepted. If the likelihood is low, make recommendations to improve the likelihood of being accepted.</i>
 
 <h2>Save this prompt and use it!!</h2>
 
