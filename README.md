@@ -125,5 +125,5 @@ Best of luck to everyone in your job search!!<br>
 <br>
 Let me know if there are any questions. Thank you!<br>
 <br>
-Russ Conte
+Russ Conte<br>
 Forest Park, IL
