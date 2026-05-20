@@ -38,13 +38,13 @@ I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everythin
 
 <b>Russ Recommendation: Never again ask AI about anything without setting up a team of rivals first.</b>
 
-<h4>Give the team of rivals a very specific task to do–The more specific, the better</h4>
+<h4>2. Give the team of rivals a very specific task to do–The more specific, the better</h4>
 
 The team's job is to produce a summary of the findings in the attached documents. Also include the top five findings from these results and give a rating to those findings.
 
 The AI system will return a set of recommendations, and rate those recommendations. You can set up the rating system any way you want (scale of 1-5, choice of bad/good/excellent, etc.).
 
-<h4>The critical, anti-syncophantic voice</h4>
+<h4>3. The critical, anti-syncophantic voice</h4>
 
 top five reasons why your recommendations might be wrong and rate those reasons your recommendations might be wrong.
 
