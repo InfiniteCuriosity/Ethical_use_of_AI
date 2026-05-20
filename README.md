@@ -123,7 +123,7 @@ You get the idea!
 <br>
 Best of luck to everyone in your job search!!<br>
 <br>
-Let me know if there are any questions, I'm happy to work together. Thank you!<br>
+Let me know if there are any questions, I'm happy to work together.<br>Thank you!<br>
 <br>
 Russ Conte<br>
 Forest Park, IL
