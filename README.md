@@ -51,7 +51,7 @@ The AI system will return a set of recommendations,one from each person on the t
 <i>Have the team of rivals rate (and rank order) their recommendations</i><br>
 This is why I like having an odd number, that way the recommendations from AI cannot be "balanced" (in my opinion).
 
-<i>Explain why you gave those recommendations</i><hr>
+<i>Explain why you gave those recommendations</i><br>
 AI will let you know why it made the decisions it made. They may not be the correct decisions, but at least you'll know.<br>
 
 <h4>3. The critical, anti-syncophantic voice</h4>
