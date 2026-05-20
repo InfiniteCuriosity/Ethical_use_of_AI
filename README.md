@@ -120,7 +120,7 @@ You get the idea!
 <br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is to evaluate my resume and portfolio for this job: https://www.indeed.com/viewjob?jk=452a1c70e651f44c. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
 <br>
-<h1></h1>Here is my <b>actual</b> gold standard prompt I use all the time:</h1>
+<h1>Here is my <b>actual</b> gold standard prompt I use all the time:</h1>
 Help me with a [task]. You are a [persona] when completing this task. The output should be [output]. Before you help me with this task, you should know that [context]. Let me know if anything I give you is not clear, concise or consistent. The constraints are [constraints, such as word count, reading level, etc.]. Here is what I think a gold-standard example looks like [example]. One thing you should not do is [negative constraint]. The audience is [audience] and the tone is [tone]. 
 Test the results for accuracy, bias, relevancy and consistency and report your findings. This is how we will measure success. 
 Make three recommendations to improve the prompt and rate the recommendations from best to worst, and explain your thinking to make the ratings. 
