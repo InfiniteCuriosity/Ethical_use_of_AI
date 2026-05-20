@@ -62,7 +62,7 @@ AI will let you know why it made the decisions it made. They may not be the deci
 <i>top five reasons why your recommendations might be wrong and rate the reasons your recommendations might be wrong.</i>
 
 <h4>5. List three things that would give better results</h4>
-<i>Next, return a list of three items that would give better results.</i>
+<i>Next, return a list of three items that would give better results.</i><br>
 The system will return recommendations from each member of the team of rivals, it's pretty cool to see!
 
 <h4>6. How do our results here compare to the best results?</h4>
