@@ -6,4 +6,4 @@ AI can be very syncophantic </h4>
 
 According to <a href = https://en.wikipedia.org/wiki/Sycophancy>Wikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage". That is an accurate description, and it causes a lot of errors from AI systems.
 
-
+<b>My first exposure to AI as a recruiter</b>
