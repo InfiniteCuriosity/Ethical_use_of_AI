@@ -34,7 +34,7 @@ Credit where credit is due: I learned some of this while completing the <a href 
 <br>
 <b>Russ Recommendation: Never again ask AI about anything without setting up a very successful team of rivals first.</b><br>
 <br>
-<h4>1. Tell the AI system it is a very successful team of rivals.</h4>
+<h4>1. First things first. ALWAYS start by telling the AI system it is a very successful team of rivals, list who is on the team. Include a critic, and (at least) one person chose by AI</h4>
 I wrote a post about the findings of data science about turnover based on a data set. I did all the data science, and asked AI for assistance. Here are the parts of the prompt:<br>
 <br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: An extremely smart data scientist, excellent writer, expert in Human Resources, An Industrial-Organizational (I-O) Psychologist to explain the behavioral "why" behind the satisfaction scores, a Financial Controller to calculate the actual "Cost of Attrition" (replacement, training, lost productivity) to turn these data points into a budget request, a front-Line manager (Operations Lead) to bridge the gap between the spreadsheet and the cubicle, and a critical voice.</i>
