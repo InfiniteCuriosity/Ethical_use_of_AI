@@ -11,9 +11,9 @@ A fair description would acknowledge that you provided the core architectural fr
 Here are a few ways to describe this contribution, depending on where you intend to publish it:<br><br>
 <h2>Option 1: Academic / Technical Vignette Style (Detailed)<br><br></h2>
 <b>Credit & Collaboration Notice:</b> The baseline architecture, user-interface wrapper, and statistical validation workflows of this package were designed and implemented by the author. Technical extensions to the pipeline—specifically the transition from rigid hyperparameter grids to an automated random search heuristic, the synchronization of cross-validation fold assignments to enable out-of-fold matrix generation, and the mathematical construction of the stacked linear meta-learner (Super Learner)—were developed through an interactive, iterative pair-programming collaboration with the Google Gemini Pro large language model. The AI assisted with code generation, structural optimization, fault-tolerance handling, and resolving specific package version API discrepancies.<br><br>
-<b>Option 2: CRAN Manual</b> / `@note` Style (Concise)<br>
+<h2>Option 2: CRAN Manual</h2> / `@note` Style (Concise)<br>
 Note: > While the core intellectual property, package design, and diagnostic requirements belong to the author, specific programming implementations within numericensembles were accelerated via code generation assistance from Google Gemini Pro. This includes the algorithmic refactoring for multi-model parallelized random hyperparameter searches, the assembly of synchronized data folds, and the programmatic tracking and serialization of internal evaluation data frames as persistent R objects.<br><br>
-<b>Option 3: GitHub README / Bulleted Breakdown (Functional)<br></b>
+<h2>Option 3: GitHub README / Bulleted Breakdown (Functional)<br></h2>
 🛠️ Development & AI Collaboration<br>
 This package was independently conceptualized and authored by [Your Name]. Code development was accelerated through a collaborative pair-programming workflow with Google Gemini Pro. The AI’s specific technical contributions include:<br>
 • <b>Refactoring Search Heuristics:</b> Replacing static, low-density model grids with automated, high-diversity random search grids mapped across caret.<br>
