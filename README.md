@@ -89,18 +89,18 @@ You are an <b>extremely successful team of rivals</b>. The members of the team: 
 
 Let's say you are interested in this job: <a href = "https://www.indeed.com/viewjob?jk=452a1c70e651f44c">Data Scientist-Emerging Markets for the U.S. Commodity Futures Trading Commission in Washington DC.</a>
 
-1. Send the job posting (or a link to the job posting) to your AI system
-2. Start thinking this way (but this is NOT the prompt for AI yet):
-"I am interested in this job. Create a resume of a candidate who is very likely to get hired for this role. Let me know if there are any questions."
+1. Send the job posting (or a link to the job posting) to your AI system<br>
+2. Start thinking this way (but this is NOT the prompt for AI yet):<br>
+"I am interested in this job. Create a resume of a candidate who is very likely to get hired for this role. Let me know if there are any questions."<br>
 Here is part of AI's reply:<br><br>
 "This job posting is for a Data Scientist - Emerging Markets (Pay Scale/Grade: CT-13) position within the Division of Data (DoD) at the Commodity Futures Trading Commission (CFTC) in Washington, DC (Announcement: CFTC-DOD-2026-0003).
 Federal resumes for positions at this level are highly specialized. They must explicitly document at least one year of specialized experience equivalent to the GS/CT-12 level and directly mirror the agency's core Knowledge, Skills, and Abilities (KSAs). Furthermore, because the role sits in the Emerging Markets division, a winning candidate must demonstrate expertise in modern algorithmic trading data, digital/crypto assets, or rapidly growing prediction and event markets.
-Here is a comprehensive, targeted resume tailored to maximize the federal automated assessment score and pass hiring manager review for this specific position. (resume provided by AI)"
-<br>
+Here is a comprehensive, targeted resume tailored to maximize the federal automated assessment score and pass hiring manager review for this specific position. (resume provided by AI)"<br>
+<br><br>
 Now use the AI prompt from above to get recommendations to improve <b>YOUR</b> resume! Now you know the goal for this situation, let AI give you the recommendations to do your very best!
-<br>
+<br><br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is a list of recommendations to me to give me the best opportunity at getting this job. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
 <br>
-One you have the findings from AI and re-write your resume, send your resume and portfolio to AI, approximately like this:<br>
-
+One you have the findings from AI and re-write your resume, send your resume <br>and (a link to your) portfolio</b> to AI, approximately like this:<br>
+<br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is to evaluate my resume and portfolio for this job: https://www.indeed.com/viewjob?jk=452a1c70e651f44c. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
