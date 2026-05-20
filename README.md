@@ -1,5 +1,7 @@
 <h1>The Ethical Use of AI (mainly in the job search and placement fields)</h1>
-
+Russ Conte<br>
+Forest Park, IL<br>
+russconte@mac.com<br>
 <h4>AI will introduce errors into your text, we will look at ways to prevent this from happening.
 
 AI can be very syncophantic </h4>
