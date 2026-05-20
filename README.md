@@ -26,10 +26,9 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 6. Mass applications to jobs won't help you.
 <a href = https://blog.theinterviewguys.com/auto-apply-job-bots-might-feel-smart-but-theyre-killing-your-chances/>Auto-Apply Job Bots Might Feel Smart — But They’re Killing Your Chances</a>
 
+<h1>Ethical use of AI (especially in the job search process)</h1>
 
-<b>How to write a great prompt to AI:</b>
-
-
+<b>1. How to write a great prompt to AI:</b>
 <h4>1. Tell the AI system it is a very successful team of rivals.</h4>
 For example, if we are looking at submitting for a position as a labor lawyer within the United States Department of labor, you might start out by saying:
 
