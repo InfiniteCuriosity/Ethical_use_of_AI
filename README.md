@@ -18,7 +18,7 @@ I totally guarantee this will backfire on you, and probably pretty fast. The com
 <a href = "https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence">AI Is Creating A Dangerous Illusion Of Competence</a>
 
 4. Ghostwriting and/or spamming
-There is nothing wrong with doing a search to learn more. But it's a non-negotiable that you mention when you use other people's work, including AI.
+There is nothing wrong with doing a search to learn more. But it's a non-negotiable that you mention other people's work if you use it.
 
 5. Blatant AI plagiarism in the job search process: a YouTube video:
 <a href = "https://www.youtube.com/watch?v=A4Z2S1idVWc">The use of AI plagiarism in the job search process</a>
