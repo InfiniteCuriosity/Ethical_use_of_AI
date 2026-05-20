@@ -14,7 +14,7 @@ I was working to recruit for an open position in accounts receivable. I had a go
 I find this to be highly questionable, and very likely unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
 
 2. Using AI to cheat on tests and interviews.
-I totally guarantee this will backfire on you, and probably pretty fast. The company is hiring you, not ChatGPT or ClaudeCode. This is called the <b>Compentency Gap</b> by recruiters.
+I totally guarantee this will backfire on you, and probably extremely fast. The company is hiring you, not ChatGPT or ClaudeCode. Professional recruiters call this the <b>Compentency Gap</b>.
 <a href = "https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence">AI Is Creating A Dangerous Illusion Of Competence</a>
 
 4. Ghostwriting and/or spamming
