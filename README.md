@@ -4,4 +4,4 @@
 
 AI can be very syncophantic </h4>
 
-According to <a hred = https://en.wikipedia.org/wiki/Sycophancy>WikipediaWikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage"
+According to <a href = https://en.wikipedia.org/wiki/Sycophancy>WikipediaWikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage"
