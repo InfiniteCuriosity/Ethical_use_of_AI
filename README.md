@@ -128,7 +128,7 @@ Compare the three recommendations against my gold standard example. Produce a ta
 List the most important thing to avoid.
 List three possible reasons your recommendations might be wrong, how to test if your recommendations are wrong, and a list showing each recommendation, how likely it is that the recommendation is wrong, and one way to fix the possible error.
 Ask 3-5 clarifying questions before you generate the final output. 
-<br>
+<br><br>
 Best of luck to everyone in your job search!!<br>
 <br>
 Let me know if there are any questions, I'm happy to work together.<br>Thank you!<br>
