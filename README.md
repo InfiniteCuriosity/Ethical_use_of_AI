@@ -19,14 +19,16 @@ I find this to be highly questionable, and very likely unethical. Even a bad rec
 I totally guarantee this will backfire on you, and probably extremely fast. The company is hiring you, not ChatGPT or ClaudeCode or Google Gemini. Professional recruiters call this the <b>Compentency Gap</b>.
 <a href = "https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence">AI Is Creating A Dangerous Illusion Of Competence</a>
 
-4. Ghostwriting and/or spamming
+3. Ghostwriting and/or spamming
 There is nothing wrong with doing a search to learn more. But it's a non-negotiable that you mention other people's work if you use it.
 
-5. Blatant AI plagiarism in the job search process: a YouTube video:
+4. Blatant AI plagiarism in the job search process: a YouTube video:
 <a href = "https://www.youtube.com/watch?v=A4Z2S1idVWc">The use of AI plagiarism in the job search process</a>
 
-6. Mass applications to jobs won't help you.
+5. Mass applications to jobs won't help you.
 <a href = https://blog.theinterviewguys.com/auto-apply-job-bots-might-feel-smart-but-theyre-killing-your-chances/>Auto-Apply Job Bots Might Feel Smart — But They’re Killing Your Chances</a>
+<br>
+There are many other unethical ways people are using AI in the job search. Don't do it!<br>
 
 <h1>Ethical use of AI (especially in the job search process)</h1>
 
