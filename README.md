@@ -29,6 +29,9 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 <h1>Ethical use of AI (especially in the job search process)</h1>
 
 <h2>1. How to write a great prompt to AI:</h2>
+<br>
+<b>Russ Recommendation: Never again ask AI about anything without setting up a team of rivals first.</b>
+<br>
 <h4>1. Tell the AI system it is a very successful team of rivals.</h4>
 I wrote a post about the findings of data science about turnover. I did all the data science, and asked AI for assistance. Here are the parts of the prompt:
 
@@ -36,7 +39,7 @@ You are an <b>extremely successful team of rivals</b>. The members of the team: 
 
 I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everything you ask AI for help. I greatly prefer an odd number of people (you'll see why in a second). Tailor their skills to the need at hand. There is no limit to how big or small this team can be, so use it to your best advantage.
 
-<b>Russ Recommendation: Never again ask AI about anything without setting up a team of rivals first.</b>
+
 
 <h4>2. Give the team of rivals a very specific task to do–The more specific, the better</h4>
 
