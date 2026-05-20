@@ -15,7 +15,7 @@ I find this to be highly questionable, and very likely unethical. Even a bad rec
 
 2. Using AI to cheat on tests and interviews.
 I totally guarantee this will backfire on you, and probably pretty fast. The company is hiring you, not ChatGPT or ClaudeCode. This is called the <b>Compentency Gap</b> by recruiters.
-<href = https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence/>AI Is Creating A Dangerous Illusion Of Competence</a>
+<href = https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence>AI Is Creating A Dangerous Illusion Of Competence</a>
 
 4. Ghostwriting and/or spamming
 There is nothing wrong with doing a search to learn more. But it's a non-negotiable that you mention when you use other people's work, including AI.
