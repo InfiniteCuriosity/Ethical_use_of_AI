@@ -110,7 +110,7 @@ The three demo resumes AI sent back is here:<br>
 <a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Draft_resume_4.pdf>Another demo resume</a>
 <br>
 You get the idea!
-
+<br>
 2. Now use the AI prompt from above to get recommendations to improve <b>YOUR</b> resume! Now you know the goal for this situation, let AI give you the recommendations to do your very best!
 <br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is a list of recommendations to me to give me the best opportunity at getting this job. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
@@ -123,7 +123,7 @@ You get the idea!
 <br>
 Best of luck to everyone in your job search!!<br>
 <br>
-Let me know if there are any questions. Thank you!<br>
+Let me know if there are any questions, I'm happy to work together. Thank you!<br>
 <br>
 Russ Conte<br>
 Forest Park, IL
