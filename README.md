@@ -2,6 +2,8 @@
 Russ Conte<br>
 Forest Park, IL<br>
 <a href = russconte@mac.com<br>russconte@mac.com</a>
+
+<h1>Part 1: Introduction</h1>
 <h4>AI will introduce errors into your text, we will look at ways to prevent this from happening.
 
 AI can be very syncophantic </h4>
@@ -30,7 +32,7 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 
 There are many other unethical ways people are using AI in the job search. Don't do it!<br>
 
-<h1>Ethical use of AI (especially in the job search process)</h1>
+<h1>Part 2: Ethical use of AI (especially in the job search process)</h1>
 
 Credit where credit is due: I learned some of this while completing the <a href = https://www.coursera.org/google-certificates/google-ai>Google AI Professional</a> certificate, but a lot of this was material from life.
 
@@ -89,7 +91,7 @@ You are an <b>extremely successful team of rivals</b>. The members of the team: 
 
 <h1>Summmary of the first section: Ask AI to make recommendations (and weight the recommendations), use that as a foundation to improve your product/result/process.</h1>
 
-<h1>Part 2: Ethical use of AI in your job search</h1>
+<h1>Part 3: Ethical use of AI in your job search</h1>
 
 Let's say you are interested in this job: <a href = "https://www.indeed.com/viewjob?jk=452a1c70e651f44c">Data Scientist-Emerging Markets for the U.S. Commodity Futures Trading Commission in Washington DC.</a>
 
