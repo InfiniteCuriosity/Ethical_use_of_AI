@@ -27,7 +27,7 @@ There is nothing wrong with doing a search to learn more. But it's a non-negotia
 
 5. Mass applications to jobs won't help you.
 <a href = https://blog.theinterviewguys.com/auto-apply-job-bots-might-feel-smart-but-theyre-killing-your-chances/>Auto-Apply Job Bots Might Feel Smart — But They’re Killing Your Chances</a>
-<br>
+
 There are many other unethical ways people are using AI in the job search. Don't do it!<br>
 
 <h1>Ethical use of AI (especially in the job search process)</h1>
