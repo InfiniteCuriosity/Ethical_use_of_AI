@@ -46,15 +46,27 @@ I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everythin
 
 <i>The team's job is to produce a summary of the findings in the attached documents. Also include the top five findings from these results.</i>
 <br>
-The AI system will return a set of recommendations,one from each person on the team of rivals.
-
+<h4>3. Tell the AI system to return recommendations,one from each person on the team of rivals.</h4>
 <i>Have the team of rivals rate (and rank order) their recommendations</i><br>
-This is why I like having an odd number, that way the recommendations from AI cannot be "balanced" (in my opinion).
+This is why I like having an odd number on the team of rivals, that way the recommendations from AI cannot be "balanced" (in my opinion).
 
+<h4>4. Ask why. It's OK, you won't hurt AI's feelings :)</h4>
 <i>Explain why you gave those recommendations</i><br>
 AI will let you know why it made the decisions it made. They may not be the correct decisions, but at least you'll know.<br>
 
-<h4>3. The critical, anti-syncophantic voice</h4>
+<h4>5. List three things that would give better results</h4>
+The system will return recommendations from each member of the team of rivals, it's pretty cool to see!
+
+<h4>6. How do our results here compare to the best results?</h4>
+
+<h4>7. What are steps we can take to move closer to the best results</h4>
+
+<h2>Save this prompt and use it!!</h2>
+
+You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Ask for a top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses.
+
+
+<h4>5. The critical, anti-syncophantic voice</h4>
 
 <i>top five reasons why your recommendations might be wrong and rate those reasons your recommendations might be wrong.</i>
 
