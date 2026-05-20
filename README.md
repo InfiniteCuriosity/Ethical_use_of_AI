@@ -38,15 +38,21 @@ I wrote a post about the findings of data science about turnover based on a data
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: An extremely smart data scientist, excellent writer, expert in Human Resources, An Industrial-Organizational (I-O) Psychologist to explain the behavioral "why" behind the satisfaction scores, a Financial Controller to calculate the actual "Cost of Attrition" (replacement, training, lost productivity) to turn these data points into a budget request, a front-Line manager (Operations Lead) to bridge the gap between the spreadsheet and the cubicle, and a critical voice.</i>
 <br>
 <br>
-It is good to ask the AI system who should be on the team of rivals to give the best results, but always keep in mind that AI will be wrong a lot of the time.
-
-I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everything you ask AI for help. I greatly prefer an odd number of people (you'll see why in a second). Tailor their skills to the need at hand. There is no limit to how big or small this team can be, so use it to your best advantage.
+It is good to ask the AI system who should be on the team of rivals to give the best results, but always keep in mind that AI will be wrong a lot of the time.<br>
+<br>
+I recommend you <b>ALWAYS start</b> by setting up a team of rivals for everything you ask AI for help. No exceptions. I greatly prefer an odd number of people (you'll see why in a second). Tailor their skills to the need at hand. There is no limit to how big or small this team can be, so use it to your best advantage.
 
 <h4>2. Give the team of rivals a very specific task to do–The more specific, the better</h4>
 
-<i>The team's job is to produce a summary of the findings in the attached documents. Also include the top five findings from these results and give a rating to those findings.</i>
+<i>The team's job is to produce a summary of the findings in the attached documents. Also include the top five findings from these results.</i>
+<br>
+The AI system will return a set of recommendations,one from each person on the team of rivals.
 
-The AI system will return a set of recommendations, and rate those recommendations. You can set up the rating system any way you want (scale of 1-5, choice of bad/good/excellent, etc.).
+<i>Have the team of rivals rate (and rank order) their recommendations</i><br>
+This is why I like having an odd number, that way the recommendations from AI cannot be "balanced" (in my opinion).
+
+<i>Explain why you gave those recommendations</i><hr>
+AI will let you know why it made the decisions it made. They may not be the correct decisions, but at least you'll know.<br>
 
 <h4>3. The critical, anti-syncophantic voice</h4>
 
