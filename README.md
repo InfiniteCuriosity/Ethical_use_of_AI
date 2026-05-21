@@ -112,7 +112,7 @@ You are an <b>extremely successful team of rivals</b>. The members of the team: 
 
 Let's say you are interested in this job: <a href = "https://www.indeed.com/viewjob?jk=452a1c70e651f44c">Data Scientist-Emerging Markets for the U.S. Commodity Futures Trading Commission in Washington DC.</a>
 
-1. Start thinking this way:<br>
+1. Start thinking this way (give something like this to your AI system):<br>
 "I am interested in this job. Create resumes of three top candidates who are very likely to get hired for this role. Let me know if there are any questions."<br>
 Here is part of AI's reply:<br><br>
 "This job posting is for a Data Scientist - Emerging Markets (Pay Scale/Grade: CT-13) position within the Division of Data (DoD) at the Commodity Futures Trading Commission (CFTC) in Washington, DC (Announcement: CFTC-DOD-2026-0003).
