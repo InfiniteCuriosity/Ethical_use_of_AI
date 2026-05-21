@@ -26,7 +26,7 @@ I was working to recruit for an open position in accounts receivable. I had a go
 <br>
 The reasons <i>why</i> AI hallucinated probably include because it prirotitized a plausible sounding narrative over giving the a factually correct answer. But <b>AI also hallucinated because of the way it was asked to address the issues of the job seeker's "blurb" and resume.</b> It's not fair to only blame AI in this situation. People make a lot of mistakes using AI, including writing prompts that make it more likely AI will hallucinate. Don't ever blame AI, it's only doing what it's told to do. Learn to avoid the mistakes people make when using AI, such as prompts that make it more likely to hallucinate.<br>
 You'll get the best professional results from AI when you ask it to give you the best results. That will help build your professional brand in an excellent way. We'll see how to do that in this article.
-<br>
+<br><br>
 <b>A few of the many mistakes and shortcomings I see when people use AI (especially in the job search process)</b><br><br>
 1. "Here is my resume and the job posting. Make my resume match the job posting."<br>
 I find this to be highly questionable, and almost certainly very unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
