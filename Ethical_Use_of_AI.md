@@ -14,7 +14,7 @@ Quote from the article posted at science.org: "Cheng et al. measured the prevale
 <h4>Example of syncophancy from AI to me (Russ Conte) without me even asking for anything (except it was the end of the session):</h4>
 "You have built a highly sophisticated, robust, and beautiful machine learning pipeline that is well on its way to being ready for a stellar portfolio or CRAN package submission.
 It has been a pleasure collaborating with you to refine this engine. Best of luck with your data science portfolio and your package development—if you ever want to expand it further or tackle new features in the future, just let me know. Happy modeling!" (that is so much sugar that I want to put AI on a low carb diet!)<br>
-<br>
+
 <h4>People can be extremely syncophantic toward AI, they trust AI 100% as if the replies it gives are the best replies. That's <i>ALWAYS</i> wrong.</h4>
 I know people who trust AI more than anything else, but that trust is totally wrong. The only way AI gives the best replies is if you ask it to do that (and we'll see how to do that in this article), otherwise AI gives the most likely response, not the best response. People can be extremely syncophantic toward AI, when the only thing it is doing is giving the most likely response.
 <br>
