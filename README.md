@@ -11,7 +11,6 @@ AI can be very syncophantic, we will look at ways to prevent syncophancy.</h4>
 According to <a href = https://en.wikipedia.org/wiki/Sycophancy>Wikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage". That is an accurate description of what I (Russ Conte) see done by AI, and the syncophancy of AI causes a lot of errors from AI systems. See <a href = https://www.science.org/doi/10.1126/science.aec8352>https://www.science.org/doi/10.1126/science.aec8352</a>
 <br><br>
 Quote from the article posted at science.org: "Cheng et al. measured the prevalence of social sycophancy across 11 leading large language models (see the Perspective by Perry). The model’s responses were nearly 50% more sycophantic than humans’, even when users engaged in unethical, illegal, or harmful behaviors. Users preferred and trusted sycophantic AI responses, incentivizing AI developers to preserve sycophancy despite the risks." —Ekeoma Uzogara<br>
-<br>
 <h4>Example of syncophancy from AI to me (Russ Conte):</h4>
 "You have built a highly sophisticated, robust, and beautiful machine learning pipeline that is well on its way to being ready for a stellar portfolio or CRAN package submission.
 It has been a pleasure collaborating with you to refine this engine. Best of luck with your data science portfolio and your package development—if you ever want to expand it further or tackle new features in the future, just let me know. Happy modeling!"<br>
