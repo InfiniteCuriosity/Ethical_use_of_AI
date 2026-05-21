@@ -93,7 +93,7 @@ Credit where credit is due: I learned some of this while completing the <a href 
 I wrote a post about the findings of data science about turnover based on a data set. I did all the data science, and asked AI for assistance. Here are the parts of the prompt:<br>
 <br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: An extremely smart data scientist, excellent writer, expert in Human Resources, An Industrial-Organizational (I-O) Psychologist to explain the behavioral "why" behind the satisfaction scores, a Financial Controller to calculate the actual "Cost of Attrition" (replacement, training, lost productivity) to turn these data points into a budget request, a front-Line manager (Operations Lead) to bridge the gap between the spreadsheet and the cubicle, and a critical voice.</i><br><br>
-After I wrote this I realized there is one more critical role I want on the team that I did not have previously. <b>I require an ethicist as part of my team of rivals.</b> Definitely always want an experienced ethicist on the team of rivals.<br>
+After I wrote this I realized there is one more critical role I want on the team that I did not have previously. <b>I require an ethicist as part of all of my teams of rivals.</b> I definitely always want an experienced ethicist on every team of rivals I create using AI.<br>
 <br>
 <br>
 It is good to ask the AI system who should be on the team of rivals to give the best results, but always keep in mind that AI will be wrong a lot of the time.<br>
