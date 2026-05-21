@@ -1,5 +1,5 @@
 <h1>AI never gives you the best answer unless you ask. Here's how to build your professional brand with assistance from AI.</h1>
-Russ Conte<br>
+Russ Conte, with assistance from Google Gemini Pro<br>
 Forest Park, IL<br>
 <a href = russconte@mac.com<br>russconte@mac.com</a>
 
@@ -19,8 +19,11 @@ It has been a pleasure collaborating with you to refine this engine. Best of luc
 I know people who trust AI more than anything else, but that trust is totally wrong. The only way AI gives the best replies is if you ask it to do so (and we'll see how to do that in this article), otherwise AI gives the most likely response, never the best response. People can be extremely syncophantic toward AI, when the only thing it is doing is giving the most likely response.
 <br>
 <h4>What ethics means in this situation:</h4>
-• Maintaining absolute human accountability for the final output and ensuring transparency about the tools used.<br>
-• Testing all output from AI for ethics and accuracy.<br><br>
+The Human-in-the-Loop: An Ethical Checklist<br>
+Before you hit "send," "publish," or "submit" on any content generated with the help of AI, run it through this three-point integrity check. These steps ensure that the AI remains your tool, not your proxy.
+• **Verify for Accuracy**: Have I personally validated the claims, data, and citations produced by the AI? (AI can hallucinate plausible-sounding falsehoods; never take its output as ground truth.)
+• **Ensure Originality**: Does this output reflect my unique perspective, voice, and synthesis, rather than just raw AI-generated text? (Your value is in your human insight; the AI is simply the assistant.)
+• **Practice Transparency**: Have I explicitly stated where and how I used AI in the creation of this work? (Honesty about your process builds trust with your readers and colleagues.)
 <b>My first exposure to AI as a recruiter (hint: it was bad)</b><br><br>
 I was working to recruit for an open position in accounts receivable. I had a good candidate and wrote a very good résumé. The recruiter in charge asked me to write a blurb, in addition to submitting the resume. A "blurb" is a summary that we would give to the company. My blurb had seven sentences and was perfectly accurate. The recruiter in charge passed the information through an AI system. The AI Version of the blurb was also seven sentences, but it contained seven errors. Five of those were grammar that a native English speaker would not make. The other two were extremely incorrect facts. One was saying that this person had skills that they did not have. The second was saying that this person had received an award at a previous job, but that was actually not true. None of that was in anything I gave the recruiter in charge, because it's totally false. I told recruiter in charge that we could not use the AI generated material until it had been corrected for all of the mistakes that it had made.<br>
 <br>
