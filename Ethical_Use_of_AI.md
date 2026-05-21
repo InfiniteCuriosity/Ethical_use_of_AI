@@ -26,7 +26,19 @@ Before you hit "send," "publish," or "submit" on any content generated with the 
 <b>Ensure Originality</b>: Does this output reflect my unique perspective, voice, and synthesis, rather than just raw AI-generated text? (Your value is in your human insight; the AI is simply the assistant.)<br>
 <b>Practice Transparency</b>: Have I explicitly stated where and how I used AI in the creation of this work? (Honesty about your process builds trust with your readers and colleagues.)<br>
 <br>
-I sent early versions of this article to Google Gemini Pro two times and used some of the recommendations the team of rivals I set up provided. Google Gemini Pro gave some help with formatting and was most helpful in the section on ethics. You'll see the process of how to work with AI recursively outlined later in this article.
+I sent early versions of this article to Google Gemini Pro two times and used some of the recommendations the team of rivals I set up provided. Google Gemini Pro gave some help with formatting and was most helpful in the section on ethics. You'll see the process of how to work with AI recursively outlined later in this article.<br>
+I also sent a prompt to Google Gemini to ask for help with images. Here is the prompt I sent AI:<br>
+---
+You are a team of artist rivals. One person is an artist, one is a cartoonist, one is a photographer, one is an illustrator, and one artist is the choice of Google Gemini.
+<br>
+I'm going to publish this article in my blog and on LinkedIn:
+<br>
+https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Ethical_Use_of_AI.md.
+<br>
+Return at least two images per person from the team of rivals that best reflect the content in this blog post. One image will be a header (at the top), and the other images will be in the article. State where in the article the images would be best placed.
+<br>
+Let me know if you have any questions or recommendations
+---
 <br><br>
 <b>A great story you are welcome to share: My first exposure to AI as a recruiter (hint: it was bad)</b><br><br>
 I was working to recruit for an open position in accounts receivable. I had a good candidate and wrote a very good résumé. The recruiter in charge asked me to write a blurb, in addition to submitting the resume. A "blurb" is a summary that we would give to the company. My blurb had seven sentences and was perfectly accurate. The recruiter in charge passed the information through an AI system. The AI Version of the blurb was also seven sentences, but it contained seven errors. Five of those were grammar that a native English speaker would not make. The other two were extremely incorrect facts. One was saying that this person had skills that they did not have. The second was saying that this person received an award at a previous job, but that was actually not true. None of that was in anything I gave the recruiter in charge, because it's totally false. I told recruiter in charge that we could not use the AI generated material until it had been corrected for all the mistakes AI made.<br>
