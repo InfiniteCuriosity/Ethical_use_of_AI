@@ -139,7 +139,7 @@ Here is part of AI's reply:<br><br>
 Federal resumes for positions at this level are highly specialized. They must explicitly document at least one year of specialized experience equivalent to the GS/CT-12 level and directly mirror the agency's core Knowledge, Skills, and Abilities (KSAs). Furthermore, because the role sits in the Emerging Markets division, a winning candidate must demonstrate expertise in modern algorithmic trading data, digital/crypto assets, or rapidly growing prediction and event markets.
 Here is a comprehensive, targeted resume tailored to maximize the federal automated assessment score and pass hiring manager review for this specific position. (resume provided by AI)"<br>
 
-The three demo resumes AI sent back are here:<br>
+The three optimal demo resumes AI sent back for that job are here:<br>
 <a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Demo_Resume.pdf>Demo resume returned by Google Gemini</a>
 <br>
 <a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Draft_resume_2.pdf>Demo resume #2</a>
