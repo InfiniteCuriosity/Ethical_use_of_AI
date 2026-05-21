@@ -1,5 +1,5 @@
 <img width="2816" height="1536" alt="Gemini_Generated_Image_for_Russ_Conte_blog_post" src="https://github.com/user-attachments/assets/b94131c0-139d-45b1-ac11-57717cb8c289" />
-Image creted with assistance from Google Gemini Pro (The actual prompt I gave AI to get this image is described in this article)
+Image creted with assistance from Google Gemini Pro (The actual prompt I gave AI to get this image is quoted in this article)
 <h1>AI never gives you the best answer unless you ask. Here's how to build your professional brand ethically and get the best results with assistance from AI.</h1>
 Russ Conte, with assistance from <a href = https://gemini.google.com/app>Google Gemini Pro</a><br>
 Forest Park, IL
