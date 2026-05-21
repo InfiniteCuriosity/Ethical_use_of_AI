@@ -83,7 +83,7 @@ AI will let you know why it made the decisions it made, <b>but only if you ask a
 It's OK to ask AI which questions you should ask, which questions have the most predictive power, are most likely to lead to success, etc.<br>
 <br>
 <h2>Big prediction from Russ about your career:</h2>
-<h4>My prediction is that the future belongs to those who can ask the most insightful, practical and useful questions, stick with it until you get the answer, so you get the best possible answers from both people <i>AND</i> AI. Therefore it is in your best interet to develop infinie curiosity, endless wonder, and a very strong desire to connect ideas, all while keeping your feet firmly on planet earth. My prediction is these are the people who will succeed the most.</h4>
+<h4>My prediction is that the future belongs to those who can ask the most insightful, practical and useful questions, stick with it until you get the answers from both people <i>AND</i> AI. Therefore it is in your best interet to develop infinie curiosity, endless wonder, and a very strong desire to connect ideas, all while keeping your feet firmly on planet earth. My prediction is these are the people who will succeed the most, not necessarily the ones who can code the best.</h4>
 <br>
 <h4>5. The critical, anti-syncophantic voice</h4>
 <i>top five reasons why your recommendations might be wrong and rate the reasons your recommendations might be wrong.</i>
