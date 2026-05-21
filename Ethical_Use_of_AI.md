@@ -1,4 +1,4 @@
-<h1>AI never gives you the best answer unless you ask. Here's how to build your professional brand with assistance from AI.</h1>
+<h1>AI never gives you the best answer unless you ask. Here's how to build your professional brand ethically with assistance from AI.</h1>
 Russ Conte, with assistance from Google Gemini Pro<br>
 Forest Park, IL<br>
 <a href = russconte@mac.com<br>russconte@mac.com</a>
