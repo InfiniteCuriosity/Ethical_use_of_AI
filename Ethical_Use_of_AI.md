@@ -1,4 +1,4 @@
-<h1>AI never gives you the best answer unless you ask. Here's how to ask so you get the most from AI in an ethical way.</h1>
+<h1>AI never gives you the best answer unless you ask. Here's how to build your professional brand with assistance from AI.</h1>
 Russ Conte<br>
 Forest Park, IL<br>
 <a href = russconte@mac.com<br>russconte@mac.com</a>
@@ -6,12 +6,12 @@ Forest Park, IL<br>
 <h1>Part 1: Introduction</h1>
 <h4>AI will introduce errors into your text, we will look at ways to prevent this from happening.
 
-AI can be very syncophantic, we will look at ways to prevent syncophancy.</h4>
+AI can be very syncophantic, we will look at ways to prevent sycophancy.</h4>
 
-According to <a href = https://en.wikipedia.org/wiki/Sycophancy>Wikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage". That is an accurate description of what I (Russ Conte) see done by AI, and the syncophancy of AI causes a lot of errors from AI systems. See <a href = https://www.science.org/doi/10.1126/science.aec8352>https://www.science.org/doi/10.1126/science.aec8352</a>
+According to <a href = https://en.wikipedia.org/wiki/Sycophancy>Wikipedia</a>, "In modern English, sycophant denotes an insincere flatterer and refers to someone practising sycophancy (i.e., insincere flattery to gain an advantage". That is an accurate description of what I (Russ Conte) see done by AI, and the sycophancy of AI causes a lot of errors from AI systems. See <a href = https://www.science.org/doi/10.1126/science.aec8352>https://www.science.org/doi/10.1126/science.aec8352</a>
 <br><br>
 Quote from the article posted at science.org: "Cheng et al. measured the prevalence of social sycophancy across 11 leading large language models (see the Perspective by Perry). The model’s responses were nearly 50% more sycophantic than humans’, even when users engaged in unethical, illegal, or harmful behaviors. Users preferred and trusted sycophantic AI responses, incentivizing AI developers to preserve sycophancy despite the risks." —Ekeoma Uzogara<br>
-<h4>Example of syncophancy from AI to me (Russ Conte) without me even asking for anything (except it was the end of the session):</h4>
+<h4>Example of sycophancy from AI to me (Russ Conte) without me even asking for anything (except it was the end of the session):</h4>
 "You have built a highly sophisticated, robust, and beautiful machine learning pipeline that is well on its way to being ready for a stellar portfolio or CRAN package submission.
 It has been a pleasure collaborating with you to refine this engine. Best of luck with your data science portfolio and your package development—if you ever want to expand it further or tackle new features in the future, just let me know. Happy modeling!" (that is so much sugar that I want to put AI on a low carb diet!)<br>
 
@@ -28,7 +28,7 @@ The reasons <i>why</i> AI hallucinated probably include because it prirotitized 
 I find this to be highly questionable, and almost certainly very unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
 
 2. Using AI to cheat on tests and interviews.
-I totally guarantee this will backfire on you, and probably extremely fast. The company is hiring you, not ChatGPT or ClaudeCode or Google Gemini. Professional recruiters call this the <b>Compentency Gap</b>.
+I totally guarantee this will backfire on you, and probably extremely fast. The company is hiring you, not ChatGPT or ClaudeCode or Google Gemini. Professional recruiters call this the <b>Competency Gap</b>.
 <a href = "https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence">AI Is Creating A Dangerous Illusion Of Competence</a>
 
 3. Ghostwriting and/or spamming
@@ -113,7 +113,7 @@ For example, if you are submitting a review, you can test your review using this
 <i>Test this for submittal to (place), rate the likelihood of being accepted. If the likelihood is low, make recommendations to improve the likelihood of being accepted.</i><br>
 <h2>Save this prompt and use it!!</h2>
 <br>
-You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Return the top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.
+You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Return the top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendations for accuracy, integrity and ethics, and report all your findings.
 
 <h1>Summmary of the first two sections: Ask AI to make recommendations, weigh the recommendations and tell you what it found, use that as a foundation to improve your product/result/process.</h1>
 
@@ -139,12 +139,12 @@ You get the idea!
 <br>
 2. Now use the AI prompt from above to get recommendations to improve <b>YOUR</b> resume! Now you know the goal for this situation, let AI give you the recommendations to do your very best!
 <br>
-<i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is a list of recommendations to me to give me the best opportunity at getting this job. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
+<i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is a list of recommendations to me to give me the best opportunity at getting this job. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendations for accuracy, integrity and ethics, and report all your findings.</i>
 <br>
 <h4>Now YOU are doing the writing, not AI. Huge difference!</h4>
 3. One you have the findings from AI and re-write your resume, send your resume and (a link to your) <b>portfolio</b> to AI, approximately like this:<br>
 <br>
-<i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is to evaluate my resume and portfolio for this job: https://www.indeed.com/viewjob?jk=452a1c70e651f44c. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
+<i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is to evaluate my resume and portfolio for this job: https://www.indeed.com/viewjob?jk=452a1c70e651f44c. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendations for accuracy, integrity and ethics, and report all your findings.</i>
 <br>
 <h1>Part 4. How to cite AI when it helps you write code. (hint: ask)</h1>
 <a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Citing_AI.md>Citing code when AI helps to draft the code</a><br>
