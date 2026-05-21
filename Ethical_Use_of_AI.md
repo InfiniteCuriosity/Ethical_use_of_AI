@@ -146,7 +146,7 @@ You get the idea!
 <br>
 <h1>Part 4. How to cite AI when it helps you write code. (hint: ask)</h1>
 <a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Citing_AI.md>Citing code when AI helps to draft the code</a><br>
-<h1>Part 5. Here is my <b>actual</b> gold standard prompt I use all the time:</h1>
+<h1>Part 5. Here is my <b>actual</b> gold standard prompt I use all the time (but I never use all of this in any single prompt, this is all here when I need it):</h1>
 Help me with a [task]. You are a [team of rivals - list who is on the team, their roles, expertise, etc.] when completing this task. The output should be [output]. Before you help me with this task, you should know that [context]. Let me know if anything I give you is not clear, concise or consistent. The constraints are [constraints, such as word count, reading level, etc.]. Here is what I think a gold-standard example looks like [example]. One thing you should not do is [negative constraint]. The audience is [audience] and the tone is [tone]. 
 Test the results for accuracy, bias, relevancy and consistency and report your findings. This is how we will measure success. 
 Make three recommendations to improve the prompt and rate the recommendations from best to worst, and explain your thinking to make the ratings. 
