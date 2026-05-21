@@ -20,7 +20,7 @@ I was working to recruit for an open position in accounts receivable. I had a go
 <br>
 <b>A few of the many mistakes and shortcomings I see when people use AI (especially in the job search process)</b><br>
 1. "Here is my resume and the job posting. Make my resume match the job posting."<br>
-I find this to be highly questionable, and very likely unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
+I find this to be highly questionable, and almost certainly very unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
 
 2. Using AI to cheat on tests and interviews.
 I totally guarantee this will backfire on you, and probably extremely fast. The company is hiring you, not ChatGPT or ClaudeCode or Google Gemini. Professional recruiters call this the <b>Compentency Gap</b>.
