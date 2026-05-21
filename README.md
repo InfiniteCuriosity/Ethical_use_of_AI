@@ -107,7 +107,7 @@ For example, if you are submitting a review, you can test your review using this
 <br>
 You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Return the top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.
 
-<h1>Summmary of the first two sections: Ask AI to make recommendations (and weight the recommendations), use that as a foundation to improve your product/result/process.</h1>
+<h1>Summmary of the first two sections: Ask AI to make recommendations, weigh the recommendations and tell you what it found, use that as a foundation to improve your product/result/process.</h1>
 
 <h1>Part 3: Ethical use of AI in your job search</h1>
 
