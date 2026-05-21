@@ -17,7 +17,7 @@ It has been a pleasure collaborating with you to refine this engine. Best of luc
 
 <h4>People can be extremely syncophantic toward AI, they trust AI 100% as if the replies it gives are the best replies. That's <i>ALWAYS</i> wrong.</h4>
 I know people who trust AI more than anything else, but that trust is totally wrong. The only way AI gives the best replies is if you ask it to do that (and we'll see how to do that in this article), otherwise AI gives the most likely response, not the best response. People can be extremely syncophantic toward AI, when the only thing it is doing is giving the most likely response.
-<br>
+<br><br>
 <b>My first exposure to AI as a recruiter (hint: it was bad)</b>
 I was working to recruit for an open position in accounts receivable. I had a good candidate and wrote a very good résumé. The recruiter in charge asked me to write a blurb, in addition to submitting the resume. A "blurb" is a summary that we would give to the company. My blurb had seven sentences and was perfectly accurate. The recruiter in charge passed the information through an AI system. The AI Version of the blurb was also seven sentences, but it contained seven errors. Five of those were grammar that a native English speaker would not make. The other two were extremely incorrect facts. One was saying that this person had skills that they did not have. The second was saying that this person had received an award at a previous job, but that was actually not true. None of that was in anything I gave the recruiter in charge, because it's totally false. I told recruiter in charge that we could not use the AI generated material until it had been corrected for all of the mistakes that it had made.<br>
 <br>
