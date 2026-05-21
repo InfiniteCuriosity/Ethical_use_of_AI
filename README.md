@@ -90,6 +90,7 @@ The system will return recommendations from each member of the team of rivals, i
 
 <h4>6. How do our results here compare to the best results?</h4>
 <i>Compare our results to the best results for similar situations. Rate our results to the best results.</i>
+I will give a link to the best results when I can, such as Kaggle data science competitions.<br>
 
 <h4>7. What are steps we can take to move closer to the best results</h4>
 <i>What are steps we can take to move closer to the best results?</i>
