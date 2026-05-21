@@ -17,7 +17,7 @@ It has been a pleasure collaborating with you to refine this engine. Best of luc
 
 <h4>People can be extremely syncophantic toward AI, they trust AI 100% as if the replies it gives are the best replies. That's <i>ALWAYS</i> wrong.</h4>
 I know people who trust AI more than anything else, but that trust is totally wrong. The only way AI gives the best replies is if you ask it to do so (and we'll see how to do that in this article), otherwise AI gives the most likely response, never the best response. People can be extremely syncophantic toward AI, when the only thing it is doing is giving the most likely response.
-<br><br>
+<br>
 <h4>What ethics means in this situation:</h4><br>
 • Maintaining absolute human accountability for the final output and ensuring transparency about the tools used.<br>
 • Testing all output from AI for ethics and accuracy.<br>
