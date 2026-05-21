@@ -140,11 +140,11 @@ Federal resumes for positions at this level are highly specialized. They must ex
 Here is a comprehensive, targeted resume tailored to maximize the federal automated assessment score and pass hiring manager review for this specific position. (resume provided by AI)"<br>
 
 The three optimal demo resumes AI sent back for that job are here:<br>
-<a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Demo_Resume.pdf>Demo resume returned by Google Gemini</a>
+<a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Demo_Resume.pdf>Optimal demo resume #1 returned by Google Gemini</a>
 <br>
-<a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Draft_resume_2.pdf>Demo resume #2</a>
+<a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Draft_resume_2.pdf>Optimal demo resume #2</a>
 <br>
-<a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Draft_resume_4.pdf>Another demo resume</a>
+<a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Draft_resume_4.pdf>Optimal demo resume #3</a>
 <br>
 You get the idea!
 <br><br>
