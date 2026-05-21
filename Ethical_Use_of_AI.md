@@ -95,7 +95,7 @@ It can help to give AI an upload of the gold standard if you have it.
 
 <h4>4. Ask why. It's OK, you won't hurt AI's feelings :)</h4>
 <i>Explain why you gave those recommendations</i><br>
-AI will let you know why it made the decisions it made, <b>but only if you ask ask. That's how it handles everything. It won't answer unless you ask first, so ask very good quesitons!!!</b>. They may not be the decisions you previously thought about, but at least you'll know <i>WHY </i>AI made the decisioins it made.<br>
+AI will let you know why it made the decisions it made, <b>but only if you ask ask. That's how it handles everything. It won't answer unless you ask first, so ask very good quesitons!!!</b>. They may not be the decisions you previously thought about, but at least you'll know <i>WHY </i>AI made the decisioins it made.<br><br>
 It's OK to ask AI which questions you should ask, which questions have the most predictive power, are most likely to lead to success, etc.<br>
 <br>
 <h2>Big prediction from Russ about your career:</h2>
