@@ -18,10 +18,10 @@ It has been a pleasure collaborating with you to refine this engine. Best of luc
 <h4>People can be extremely syncophantic toward AI, they trust AI 100% as if the replies it gives are the best replies. That's <i>ALWAYS</i> wrong.</h4>
 I know people who trust AI more than anything else, but that trust is totally wrong. The only way AI gives the best replies is if you ask it to do so (and we'll see how to do that in this article), otherwise AI gives the most likely response, never the best response. People can be extremely syncophantic toward AI, when the only thing it is doing is giving the most likely response.
 <br><br>
-<b>My first exposure to AI as a recruiter (hint: it was bad)</b>
+<b>My first exposure to AI as a recruiter (hint: it was bad)</b><br><br>
 I was working to recruit for an open position in accounts receivable. I had a good candidate and wrote a very good résumé. The recruiter in charge asked me to write a blurb, in addition to submitting the resume. A "blurb" is a summary that we would give to the company. My blurb had seven sentences and was perfectly accurate. The recruiter in charge passed the information through an AI system. The AI Version of the blurb was also seven sentences, but it contained seven errors. Five of those were grammar that a native English speaker would not make. The other two were extremely incorrect facts. One was saying that this person had skills that they did not have. The second was saying that this person had received an award at a previous job, but that was actually not true. None of that was in anything I gave the recruiter in charge, because it's totally false. I told recruiter in charge that we could not use the AI generated material until it had been corrected for all of the mistakes that it had made.<br>
 <br>
-<b>A few of the many mistakes and shortcomings I see when people use AI (especially in the job search process)</b><br>
+<b>A few of the many mistakes and shortcomings I see when people use AI (especially in the job search process)</b><br><br>
 1. "Here is my resume and the job posting. Make my resume match the job posting."<br>
 I find this to be highly questionable, and almost certainly very unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
 
@@ -144,9 +144,9 @@ You get the idea!
 <br>
 <i>You are an <b>extremely successful team of rivals</b>. The members of the team: A great person in HR, An excellent data scientist, a very successful recruiter placing people in data science roles, a critical voice, and one member selected by AI. The team's job is to evaluate my resume and portfolio for this job: https://www.indeed.com/viewjob?jk=452a1c70e651f44c. Return the top 3 recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendatins for accuracy, integrity and ethics, and report all your findings.</i>
 <br>
-<h1>4. How to cite AI when it helps you write code. (hint: ask)</h1>
+<h1>Part 4. How to cite AI when it helps you write code. (hint: ask)</h1>
 <a href = https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Citing_AI.md>Citing code when AI helps to draft the code</a><br>
-<h1>5. Here is my <b>actual</b> gold standard prompt I use all the time:</h1>
+<h1>Part 5. Here is my <b>actual</b> gold standard prompt I use all the time:</h1>
 Help me with a [task]. You are a [team of rivals - list who is on the team, their roles, expertise, etc.] when completing this task. The output should be [output]. Before you help me with this task, you should know that [context]. Let me know if anything I give you is not clear, concise or consistent. The constraints are [constraints, such as word count, reading level, etc.]. Here is what I think a gold-standard example looks like [example]. One thing you should not do is [negative constraint]. The audience is [audience] and the tone is [tone]. 
 Test the results for accuracy, bias, relevancy and consistency and report your findings. This is how we will measure success. 
 Make three recommendations to improve the prompt and rate the recommendations from best to worst, and explain your thinking to make the ratings. 
