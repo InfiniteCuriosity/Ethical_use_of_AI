@@ -65,7 +65,7 @@ In my summary, I said AI did a bad job with the recommendations. It's obvious th
 <br><br>
 My report: <a href = https://infinitecuriosity.github.io/2026/05/10/AI-assisted-summarizing-Google-reviews.html>Russ Conte look at using AI to summarize reviews of the Apple Store at Woodfield.</a>
 <br>
-<h1>Part 2: Ethical use of AI (especially in the job search process)</h1>
+<h1>Part 2: How to write a prompt to AI so it gives the very best response.</h1>
 
 Credit where credit is due: I learned some of this while completing the <a href = https://www.coursera.org/google-certificates/google-ai>Google AI Professional</a> certificate, but a lot of this was material from life.
 
