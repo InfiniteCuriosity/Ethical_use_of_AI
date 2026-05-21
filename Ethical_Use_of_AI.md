@@ -1,3 +1,5 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_for_Russ_Conte_blog_post" src="https://github.com/user-attachments/assets/b94131c0-139d-45b1-ac11-57717cb8c289" />
+Image creted with assistance from Google Gemini Pro (as described in the article)
 <h1>AI never gives you the best answer unless you ask. Here's how to build your professional brand ethically and get the best results with assistance from AI.</h1>
 Russ Conte, with assistance from <a href = https://gemini.google.com/app>Google Gemini Pro</a><br>
 Forest Park, IL
@@ -27,7 +29,7 @@ Before you hit "send," "publish," or "submit" on any content generated with the 
 <b>Practice Transparency</b>: Have I explicitly stated where and how I used AI in the creation of this work? (Honesty about your process builds trust with your readers and colleagues.)<br>
 <br>
 I sent early versions of this article to Google Gemini Pro two times and used some of the recommendations the team of rivals I set up provided. Google Gemini Pro gave some help with formatting and was most helpful in the section on ethics. You'll see the process of how to work with AI recursively outlined later in this article.<br>
-Here is how to set up a team of rivals for an image:<br><br>
+Here is how to set up a team of rivals for an image, but you can do the same for any type of content that your AI system accepts :<br><br>
 *****<br>
 You are a team of artist rivals. One person is an artist, one is a cartoonist, one is a photographer, one is an illustrator, and one artist is the choice of Google Gemini.
 <br>
@@ -38,7 +40,7 @@ https://github.com/InfiniteCuriosity/Ethical_use_of_AI/blob/main/Ethical_Use_of_
 Return at least two images per person from the team of rivals that best reflect the content in this blog post. One image will be a header (at the top), and the other images will be in the article. State where in the article the images would be best placed.
 <br>
 Let me know if you have any questions or recommendations<br>
-*****<br>
+*****
 <br><br>
 <b>A great story you are welcome to share: My first exposure to AI as a recruiter (hint: it was bad)</b><br><br>
 I was working to recruit for an open position in accounts receivable. I had a good candidate and wrote a very good résumé. The recruiter in charge asked me to write a blurb, in addition to submitting the resume. A "blurb" is a summary that we would give to the company. My blurb had seven sentences and was perfectly accurate. The recruiter in charge passed the information through an AI system. The AI Version of the blurb was also seven sentences, but it contained seven errors. Five of those were grammar that a native English speaker would not make. The other two were extremely incorrect facts. One was saying that this person had skills that they did not have. The second was saying that this person received an award at a previous job, but that was actually not true. None of that was in anything I gave the recruiter in charge, because it's totally false. I told recruiter in charge that we could not use the AI generated material until it had been corrected for all the mistakes AI made.<br>
