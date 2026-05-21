@@ -151,7 +151,7 @@ Ask 3-5 clarifying questions before you generate the final output.
 <br><br>
 Best of luck to everyone in your job search!!<br>
 <br>
-Let me know if there are any questions, I'm happy to work together.<br>Thank you!<br>
+Let me know if there are any questions, I'm happy to work together.<br>Thank you!<br><br>
 <br>
 Russ Conte<br>
 Forest Park, IL
