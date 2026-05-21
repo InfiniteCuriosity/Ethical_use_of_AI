@@ -55,7 +55,7 @@ Credit where credit is due: I learned some of this while completing the <a href 
 
 <h2>1. How to write a great prompt to AI:</h2>
 <br>
-<b><h3>Russ Recommendation: Never again ask AI about anything without first setting a very successful team of rivals in the prompt you give to AI. Let's look at some examples!!</b><br></h3>
+<b><h3>Russ Recommendation: Never again ask AI about anything without first setting a very successful team of rivals in the prompt you give to AI. The payoff is the biggest you can get from using AI. Let's look at some examples!!</b><br></h3>
 <br>
 <h4>1. First things first. ALWAYS start by telling the AI system it is a very successful team of rivals, list who is on the team. Include a critic, and (at least) one person chose by AI</h4>
 I wrote a post about the findings of data science about turnover based on a data set. I did all the data science, and asked AI for assistance. Here are the parts of the prompt:<br>
