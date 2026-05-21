@@ -29,7 +29,7 @@ Before you hit "send," "publish," or "submit" on any content generated with the 
 <b>Practice Transparency</b>: Have I explicitly stated where and how I used AI in the creation of this work? (Honesty about your process builds trust with your readers and colleagues.)<br>
 <br>
 I sent early versions of this article to Google Gemini Pro two times and used some of the recommendations the team of rivals I set up provided. Google Gemini Pro gave some help with formatting and was most helpful in the section on ethics. You'll see the process of how to work with AI recursively outlined later in this article.<br><br>
-<h2>Here is how to set up a team of rivals for AI to generate an image, but you can do the same for any type of content your AI system accepts:</h2><br><br>
+<h2>Here is how to set up a team of rivals for AI to generate an image, but you can do the same for any type of content your AI system accepts:</h2><br>
 *****<br>
 You are a team of artist rivals. One person is an artist, one is a cartoonist, one is a photographer, one is an illustrator, and one artist is the choice of Google Gemini.
 <br>
