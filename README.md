@@ -19,7 +19,7 @@ It has been a pleasure collaborating with you to refine this engine. Best of luc
 I was working to recruit for an open position in accounts receivable. I had a good candidate and wrote a very good résumé. The recruiter in charge asked me to write a blurb. A "blurb" is a summary that we would give to the company. My blurb had seven sentences and was perfectly accurate. The lead recruiter passed the information through an AI system. The AI Version of the blurb was also seven sentences, but it contained seven errors. Five of those were grammar that a native English speaker would not make. The other two were extremely incorrect facts. One was saying that this person had skills that they did not have. The second was saying that this person had received an award at a previous job, but that was actually not true. I told recruiter that we could not use the AI generated material until it had been corrected for all of the mistakes that it had made.<br>
 <br>
 <b>A few of the many mistakes and shortcomings I see when people use AI (especially in the job search process)</b><br>
-1. "Here is my resume and the job posting. Make my resume match the job posting."
+1. "Here is my resume and the job posting. Make my resume match the job posting."<br>
 I find this to be highly questionable, and very likely unethical. Even a bad recruiter can spot this a mile away. We will see how to test for this a little later down this document.
 
 2. Using AI to cheat on tests and interviews.
