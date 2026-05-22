@@ -142,7 +142,7 @@ For example, if you are submitting a review, you can test your review using this
 <h4>10. What are three of the best questions I have not asked? How will the answers to those questions improve the results? Why are those the best questions to ask?</h4>
 You might want to raise the number higher than three, that's up to you
 <br>
-<h4>11. What are the three best questions I should ask the team of rivals? Why are those the best questions?</h4>
+<h4>11. What are the three best questions I should ask the team of rivals? Why are those the best questions to ask the team of rivals?</h4>
 Same basic idea as #10<br>
 <h4>12. How do your recommendations and our results compare to results for similar (external) data?</h4>
 Have AI help you expand your team of rivals to include the results from other investigators.<br>
