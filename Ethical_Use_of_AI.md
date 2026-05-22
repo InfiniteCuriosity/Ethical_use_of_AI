@@ -139,7 +139,7 @@ You can do this for nearly anything.
 For example, if you are submitting a review, you can test your review using this system, and have AI check if your review meets the requirements for submittal.<br><br>
 <i>Test this for submittal to (place), rate the likelihood of being accepted. If the likelihood is low, make recommendations to improve the likelihood of being accepted.</i>
 <br>
-<h4>10. What are at least three of the best questions I have not asked? How will the answers to those questions improve the results? Why are those the best questions to ask?</h4>
+<h4>10. What are three of the best questions I have not asked? How will the answers to those questions improve the results? Why are those the best questions to ask?</h4>
 You might want to raise the number higher than three, that's up to you
 <br>
 <h4>11. What are the three best questions I should ask the team of rivals? Why are those the best questions?</h4>
