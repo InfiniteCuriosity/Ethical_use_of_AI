@@ -138,6 +138,11 @@ You can do this for nearly anything.
 <h4>9. Test if your submittal meets required standards.</h4>
 For example, if you are submitting a review, you can test your review using this system, and have AI check if your review meets the requirements for submittal.<br><br>
 <i>Test this for submittal to (place), rate the likelihood of being accepted. If the likelihood is low, make recommendations to improve the likelihood of being accepted.</i><br>
+<br>
+<h4>10. What are at least three questions I have not asked that I should ask because the answers will improve the results?</h4>
+<br>
+<h4>11. What are three questions I should ask the team of rivals that I have not asked?</h4><br>
+
 <h2>Save this prompt and use it!!</h2>
 <br>
 You are an <b>extremely successful team of rivals</b>. The members of the team: (list), a critical voice, and one member selected by AI. The team's job is (fill in the blank). Return the top 3 (or 5 or whatever number) of recommendations, in order (best recommendations first). Explain why you made those recommendations. Explain why your recommendations might be wrong, rate those responses. Compare our results to the best possible results. List three things that would give better results, and the steps to get to those better results. Test your recommendations for accuracy, integrity and ethics, and report all your findings.
